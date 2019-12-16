@@ -1,5 +1,4 @@
-# store-management-comparison
-Comparison of state management libraries for Angular
+## Comparison of frontend state management libraries for Angular
 
 |                                     | NgRX                                   | Akita                                  | ng\-state                           | NGXS                                   | Redux                             | MobX                                                                                         | Redux pattern RxJS  |
 |---------------------------------------|----------------------------------------|----------------------------------------|-------------------------------------|----------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------|---------------------|
